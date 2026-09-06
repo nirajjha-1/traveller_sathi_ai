@@ -84,4 +84,4 @@ streamlit run app.py
 
 ```
 
-The application will start a local web server (usually at `http://localhost:8501`). Enter your desired travel request in the prompt box, provide a unique Session ID, and watch the agents build your trip in real-time.
+Test this app with : https://travellersathiai.streamlit.app/
